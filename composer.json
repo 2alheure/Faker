@@ -11,6 +11,9 @@
     "authors": [
         {
             "name": "François Zaninotto"
+        },
+        {
+            "name": "Jordan Juventin"
         }
     ],
     "require": {
